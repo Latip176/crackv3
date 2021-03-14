@@ -23,5 +23,6 @@ Allah Swt
 Rizal XD
 Kang Pacman (Affandi)
 RizkyDev (Hekel Pro)
+Dan Semua Baboe / Temen Gua
 ```
-Jika Menemukan Bug Atau Error Dan Kesulitan / Ada Kendala Silahkan Hubung <a href="https://wa.me/+6283870396203?text="Hallo">WhatsApp Author</a>
+Jika Menemukan Bug Atau Error Dan Kesulitan / Ada Kendala Silahkan Hubung <a href="https://wa.me/+6283870396203?text=Hallo">WhatsApp Author</a>
