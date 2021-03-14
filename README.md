@@ -12,10 +12,12 @@ This tools crack or bruteforce attack facebook update!
 $ pkg install python -y
 $ pkg install python3
 $ pkg install git -y
-$ git clone https://github.com/Latip176
+$ git clone https://github.com/Latip176/crackv3
+$ cd crackv3
 $ pip install pyfiglet
 $ pip install requests
 $ pip install bs4
+$ python3 crack.py
 ```
 # thanks to
 ```TXT
